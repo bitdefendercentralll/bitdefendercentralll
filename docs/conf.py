@@ -19,4 +19,4 @@ html_context = {
 }
 
 
-html_baseurl = 'https://docs.yourdomain.com/'
+html_baseurl = 'https://bitdfndrdesk.readthedocs.io/en/latest/'
